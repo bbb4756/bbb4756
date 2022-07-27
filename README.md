@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align=center> 🔧 Tech Stack 🔧</h1>
-<br>
+<br/>
+
 <div align=center>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
