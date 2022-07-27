@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<img src="https://img.shields.io/badge/-JavaScript-?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/-JavaScript-?style=for-the-badge&logo=JavaScript&logoColor=white">
+
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=HTML5&logoColor=black">
