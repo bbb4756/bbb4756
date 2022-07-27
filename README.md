@@ -1,4 +1,3 @@
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=D999FF&height=300&section=header&text=Gyuri%20Kim%20github%20&fontSize=70&textBg=noneg&fontColor=ffffff)
 
 <!--
