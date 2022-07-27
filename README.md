@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=D999FF&height=300&width=100%&section=header&text=Gyuri%20Kim%20github%20&fontSize=70&textBg=noneg&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=wave&color=D999FF&height=300&section=header&text=Gyuri%20Kim%20github%20&fontSize=70&textBg=noneg&fontColor=ffffff)
 
 <!--
 **bbb4756/bbb4756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
