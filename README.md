@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+## Hi, I'm Gyuri Kim.
+
 <h1 align=center> 🔧 Tech Stack 🔧</h1>
 <br>
 
@@ -34,13 +37,19 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
   
 </div>
+
+<h3 align=center> 🐾 OS & Kernel 🐾 </h3>
 <div align=center>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black">
 </div>
+
+<h3 align=center> 🍀 Cloud Computing 🍀 </h3>
 <div align=center>
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white">
 </div>
+
+<h3 align=center> ⭐ Etc ⭐ </h3>
 <div align=center>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
