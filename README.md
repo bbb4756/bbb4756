@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=black">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
   <img src="https://img.shields.io/badge/Python-38A1CE?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/ReduxSaga-999999?style=for-the-badge&logo=reduxsaga&logoColor=white">
+  <img src="https://img.shields.io/badge/ReduxSaga-999999?style=for-the-badge&logo=redux%20saga&logoColor=white">
   
   
 </div>
