@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 </div>
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bbb4756&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbb4756&layout=compact&theme=buefy)
