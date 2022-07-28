@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbb4756&layout=compact&theme=buefy)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbb4756&layout=compact&theme=buefy) -->
