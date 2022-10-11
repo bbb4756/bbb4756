@@ -69,10 +69,7 @@ Here are some ideas to get you started:
 <div align=center>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-1817172?style=for-the-badge&logo=github&logoColor=white">
-</div>
-#
-#
-#
+</div>  
 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbb4756&layout=compact"><br><br>
