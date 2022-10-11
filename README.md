@@ -53,6 +53,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/ReduxSaga-999999?style=for-the-badge&logo=redux%20saga&logoColor=white">
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
  
 </div>
 
