@@ -72,7 +72,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbb4756&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=bbb4756&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbb4756&layout=compact"><br><br>
 </div>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbb4756&layout=compact&theme=buefy) -->
