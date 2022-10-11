@@ -71,8 +71,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub-1817172?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-
+<div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbb4756&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=bbb4756&show_icons=true">
-
+</div>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbb4756&layout=compact&theme=buefy) -->
